@@ -1,3 +1,4 @@
+Used Github copilot 
 # Users UI App
 
 This repository contains a minimal Angular 18 single-page application with two navigation screens:
