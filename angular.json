@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json.schemastore.org/angular-cli.json",
+  "version": 1,
+  "projects": {
+    "users-ui-app": {
+      "projectType": "application",
+      "sourceRoot": "src",
+      "architect": {}
+    }
+  },
+  "defaultProject": "users-ui-app"
+}
