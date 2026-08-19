@@ -1,0 +1,7 @@
+/* Global styles */
+body { font-family: Roboto, Arial, sans-serif; margin: 16px; }
+.container { max-width: 900px; margin: 0 auto; }
+nav a { margin-right: 12px; }
+.error { color: #b00020; font-size: 0.9em; }
+.form-row { margin-bottom: 12px; }
+input.ng-invalid.ng-touched { border-color: #b00020; }
